@@ -1,0 +1,47 @@
+{
+    "status": "ok",
+    "totalResults": 14323,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Elektroautobauer: Tesla fährt Werk in Grünheide nach Pause wieder hoch",
+            "description": "Eineinhalb Wochen lang hat Elektroautobauer Tesla die Fertigung in der Fabrik in Grünheide wegen der Rebellen-Angriffe im Roten Meer auf Eis gelegt. Doch nicht alles stand still.",
+            "url": "https://www.stern.de/wirtschaft/news/elektroautobauer--tesla-faehrt-werk-in-gruenheide-nach-pause-wieder-hoch-34448056.html",
+            "urlToImage": "https://image.stern.de/34448058/t/FR/v2/w1440/r1.7778/-/11--urnnewsmldpacom2009010124021199947387v3w800h600l703t320r1981b1260jpeg---395b637d661493e5.jpg",
+            "publishedAt": "2024-02-11T10:31:11Z",
+            "content": "Eineinhalb Wochen lang hat Elektroautobauer Tesla die Fertigung in der Fabrik in Grünheide wegen der Rebellen-Angriffe im Roten Meer auf Eis gelegt. Doch nicht alles stand still.\r\nNach einer Zwangspa… [+1274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Brooke Crothers, Contributor, \n Brooke Crothers, Contributor\n https://www.forbes.com/sites/brookecrothers/",
+            "title": "The Toyota Prius Is Back: Not Quite An EV But Close Enough",
+            "description": "Last year Toyota was flirting with electric vehicle irrelevance. But that may be changing with the 2024 Toyota Prius Prime.",
+            "url": "https://www.forbes.com/sites/brookecrothers/2024/02/11/the-toyota-prius-is-back-not-quite-an-ev-but-close-enough/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c7ceb7508922679eb33603/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-02-11T10:00:33Z",
+            "content": "2024 Toyota Prius Prime XSE Premium shown in Guardian Gray.\r\nCredit: Toyota\r\nLast year Toyota was flirting with electric vehicle irrelevance. But that may be changing with the 2024 Toyota Prius and t… [+4591 chars]"
+        }
+    
+    
+    ]
+}
